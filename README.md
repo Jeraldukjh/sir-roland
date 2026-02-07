@@ -1,1 +1,1 @@
-http://198.80.20.9/rmmc/services/enrollment/status/getstude.php?db=c1202324&cr=BSIT&mj=
+rmmc - https://github.com/VIIXII-SHA01/IM301/tree/main?tab=readme-ov-file
